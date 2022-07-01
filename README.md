@@ -1,4 +1,8 @@
 # TK 13002
 ## Promotional html 5 mini-game
 
-Work in progress... README inc. 
+Game design document [here](https://t.co/paCVrPGSWn).
+
+Ideation phase started...  
+Work in progress...  
+README incoming... 
